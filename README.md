@@ -1,4 +1,4 @@
-# reachInbox-email-job-scheduler
+
 # ReachInbox - Email Job Scheduler
 
 A full-stack email scheduling system with TypeScript, Express, BullMQ, Redis, MySQL, React, and Vite.
